@@ -1,0 +1,5 @@
+# virtual env
+nst_venv/
+
+# ignore the inputs probably
+*table*
